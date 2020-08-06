@@ -1,5 +1,5 @@
 # Lyric Racer
-Typeracer, but withgit  lyrics.
+Typeracer, but with lyrics.
 
 ![Homepage](./screenshots/homepage.png)
 
