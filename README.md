@@ -1,5 +1,5 @@
 # Lyric Racer
-Typeracer, but with lyrics.
+Typeracer, but withgit  lyrics.
 
 ![a](./screenshots/homepage.png)
 
@@ -9,7 +9,6 @@ Typeracer, but with lyrics.
 * React
 * TypeScript
 * Styled Components
-In the project directory, you can run:
 
 ## Instalation
 * With NodeJS installed, run:
