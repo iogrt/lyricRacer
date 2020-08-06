@@ -1,9 +1,13 @@
 # Lyric Racer
 Typeracer, but withgit  lyrics.
 
-![a](./screenshots/homepage.png)
+![Homepage](./screenshots/homepage.png)
 
 ----
+
+## Deployed on Netlify:
+[Click here to check it out](https://kind-blackwell-6683ac.netlify.app/)
+
 
 ## Built with
 * React
@@ -14,6 +18,5 @@ Typeracer, but withgit  lyrics.
 * With NodeJS installed, run:
 `npm run start`
 
-
 ## Example
-![a](./screenshots/song_view.png)
+![Song view](./screenshots/song_view.png)
