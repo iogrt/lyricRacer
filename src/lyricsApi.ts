@@ -20,7 +20,7 @@ const lyricsSanitizer = (lyrics: string) =>
 
 
 export default (search: string) =>
-  fetch(`https://cors-anywhere.herokuapp.com/some-random-api.ml/lyrics/?title=${search}`)
+  fetch(`https://some-random-api.ml/lyrics/?title=${search}`)
     .then(r => r.json()).then((r: ResultType) => ({
       title: r.title,
       author: r.author,
