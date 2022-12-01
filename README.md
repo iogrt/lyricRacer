@@ -15,8 +15,9 @@ Typeracer, but with lyrics.
 * Styled Components
 
 ## Instalation
-* With NodeJS installed, run:
-`npm run start`
+With NodeJS installed, run:
+* `npm i` to install
+* `npm run start`
 
 ## Example
 ![Song view](./screenshots/song_view.png)
